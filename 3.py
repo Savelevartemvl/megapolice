@@ -22,3 +22,4 @@ while s != 'молоко':
             c = float(arr[i][4])
     s = input("Выберите категорию: ")
 #https://github.com/Savelevartemvl/megapolice/tree/main
+#fdkl;hg;fklds
